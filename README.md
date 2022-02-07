@@ -1,4 +1,4 @@
-# AIO BYPASS
+<h1 align='center'>AIO BYPASS</h1>
 <p align='center'>
   <b>🎀 Follow me here 🎀</b><br>  
   <a href="https://dsc.gg/top-hoster">Discord</a> |
