@@ -29,7 +29,6 @@
 - Easy to Use
 
 ### 🌹 Supported links
-```
 | Website       | Working ?      | 
 | ------------- | -------------:| 
 | linkvertise.com      | ✔ | 
@@ -51,7 +50,6 @@
 | t.co | ✔      | 
 | tinyurl.com | ✔      | 
 | And more... | ✔      | 
-```
 
 ##   
 
