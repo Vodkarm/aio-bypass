@@ -4,7 +4,7 @@
   <a href="https://dsc.gg/top-hoster">Discord</a> |
   <a href="https://vm.tiktok.com/ZMR4ruEeW/">Tiktok</a> |
   <a href="https://github.com/Vodkarm">Github</a><br><br>
-  <img src="https://cdn.discordapp.com/attachments/939817147222347787/940254756700565544/unknown.png" style="width: 80%">
+  <img src="https://cdn.discordapp.com/attachments/721765447954989060/940378572663713862/unknown.png" style="width: 80%">
 </p>
 
 ##  
