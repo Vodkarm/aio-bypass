@@ -54,7 +54,7 @@
 ##   
 
 ### ⏲ Latests Updates
-- [08/02/2022 | 00:10] Adding a <a href="https://github.com/aio-bypass/wiki>wiki</a>
+- [08/02/2022 | 00:10] Adding a [wiki](https://github.com/aio-bypass/wiki)
 - [08/02/2022 | 13:24] Posted the script
 
 ##
