@@ -3,8 +3,8 @@ from colorama import Fore, init
 from requests import post
 
 init(convert=True)
-os.system("cls")
-os.system("title " + "AIO BYPASS - github.com/vodkarm")
+
+os.system('cls && title AIO BYPASS' if os.name == 'nt' else 'clear')
 
 ascii = """
  $$$$$$\  $$$$$$\  $$$$$$\        $$$$$$$\ $$\     $$\ $$$$$$$\   $$$$$$\   $$$$$$\   $$$$$$\  
