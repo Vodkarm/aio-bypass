@@ -54,6 +54,7 @@
 ##   
 
 ### ⏲ Latests Updates
+- [18/02/2022] | 08:57] Patched crossplatform 
 - [08/02/2022 | 00:10] Adding a [wiki](https://github.com/vodkarm/aio-bypass/wiki)
 - [08/02/2022 | 13:24] Posted the script
 
